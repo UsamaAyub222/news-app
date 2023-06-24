@@ -1,2 +1,0 @@
-ALTER TABLE `goods_item_warehouse` CHANGE `remarks` `remarks` VARCHAR(128) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL;
-ALTER TABLE `goods_item_store` CHANGE `remarks` `remarks` VARCHAR(120) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL;

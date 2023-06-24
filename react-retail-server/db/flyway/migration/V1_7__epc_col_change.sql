@@ -1,1 +1,0 @@
-ALTER TABLE `epc` ADD `status` VARCHAR(250) NOT NULL AFTER `place`;

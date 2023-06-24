@@ -1,1 +1,0 @@
-alter table tb_store add column store_type varchar(250) after stockcountdate;

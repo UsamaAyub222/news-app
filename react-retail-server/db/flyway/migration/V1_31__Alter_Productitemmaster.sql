@@ -1,1 +1,0 @@
-ALTER TABLE `product_item_master` CHANGE `status` `status` VARCHAR(128) NULL DEFAULT NULL;
